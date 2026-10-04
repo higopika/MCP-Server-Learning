@@ -1,10 +1,3 @@
-
-Learning AI end-to-end by eventually building a production-style fraud
-detection engine (models, data pipelines, agents, ops, security). This repo
-currently documents the first milestone: learning the GitHub Copilot agent
-customization system, and learning MCP (Model Context Protocol) by consuming
-an existing server and building a custom one.
-
 ## Agent Customization (`.github/`)
 
 GitHub Copilot's agent can be customized with several file types under
