@@ -1,7 +1,3 @@
----
-title: Python Learning
-description: Learning AI end-to-end by building a fraud detection engine, starting with the GitHub Copilot agent customization system and MCP server fundamentals.
----
 
 Learning AI end-to-end by eventually building a production-style fraud
 detection engine (models, data pipelines, agents, ops, security). This repo
@@ -286,12 +282,4 @@ Unlike the four existing servers above, every line of `weather_server.py`
 was written for this repo. That is the entire distinction between
 existing and custom in practice.
 
-## Build and Test
-
-```powershell
-pip install mcp-server-fetch mcp-server-git mcp-server-time mcp-server-sqlite
-```
-
-No custom MCP server exists in this repo yet. That part is parked for a
-later session.
 
