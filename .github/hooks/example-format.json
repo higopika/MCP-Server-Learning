@@ -1,0 +1,11 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "type": "command",
+        "command": "echo 'file edited — remember to run tests before committing'",
+        "timeout": 5
+      }
+    ]
+  }
+}
